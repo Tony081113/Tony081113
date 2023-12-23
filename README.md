@@ -1,5 +1,5 @@
 - 👋嗨，我是@Tony081113
-- 🌱我目前正在學習Scratch
+- 🌱我目前正在學習Scratch,python
 - 💞️ 我正在尋求合作
 - 📫 聯絡我的Gmail:lmr0811@apps.ntpc.edu.tw
 <!---
